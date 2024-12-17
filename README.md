@@ -10,15 +10,14 @@
 ### **Filosofi Logo**
 ---
 #### **1. Huruf "P" → PRICES**  
-- **Makna**: Huruf **P** sebagai elemen utama logo melambangkan identitas dari framework **PRICES** (*Precise Requirement Changes Integrated System*).  
+- **Makna**: Huruf **P** sebagai elemen utama logo melambangkan identitas dari **PRICES** (*Precise Requirement Changes Integrated System*).  
 - **Filosofi**: Mewakili dasar kerangka kerja yang **presisi** dan **terorganisir** dalam pengembangan sistem berbasis *Software Product Line Engineering (SPLE)*.
 
 ---
 
 #### **2. Jalur → Product Line**  
 - **Makna**: Jalur-jalur dalam logo merepresentasikan **Product Line**.  
-- **Filosofi**:  
-  - Menunjukan dukungan penuh framework PRICES dalam pengembangan **Software Product Line** yang terstruktur dan terorganisir.
+- **Filosofi**: Menunjukan dukungan penuh PRICES dalam pengembangan **Software Product Line** yang terstruktur dan terorganisir.
 
 ---
 
@@ -34,7 +33,7 @@
 - **Makna**: Warna-warni yang muncul dalam elemen modular menggambarkan **variability**.  
 - **Filosofi**:  
   - Menekankan kemampuan sistem untuk beradaptasi dan menghasilkan **berbagai variasi** produk berdasarkan kebutuhan spesifik.  
-  - Menggambarkan **fleksibilitas** framework PRICES dalam menangani perubahan.
+  - Menggambarkan **fleksibilitas** PRICES dalam menangani perubahan.
 
 ---
 
@@ -42,7 +41,7 @@
 - **Makna**: Warna abu-abu digunakan untuk merepresentasikan **commonality**.  
 - **Filosofi**:  
   - Melambangkan bagian inti atau **fondasi** dari sistem yang tetap stabil dan terstandarisasi di seluruh variasi produk.  
-  - Menunjukkan kestabilan dan **reusability** sebagai landasan utama framework PRICES.
+  - Menunjukkan kestabilan dan **reusability** sebagai landasan utama PRICES.
 
 ---
 > **Credit:** Nur Fajar Sayyidul Ayyam  
